@@ -50,3 +50,33 @@ Blinkit_Analysis/
 ├── blinkit_data.sql                       # SQL queries (not uploaded yet)
 ├── PowerBI_Dashboard.pbix                 # Power BI dashboard (not uploaded yet)
 └── README.md                              # Project documentation
+
+**
+##  Power BI Dashboard Highlights**
+
+- Dynamic filters by Outlet Size, Product Type, and Region
+- KPI cards displaying total revenue and sales count
+- Bar and pie charts for category-wise contribution
+- Trendline analysis across time (if applicable)
+
+
+**##  Insights Gained**
+
+- Certain outlet sizes contribute significantly more to total sales.
+- There is a skew in selling price vs MRP in specific categories.
+- Product types and location types have a direct influence on performance.
+
+**
+##  SQL Use Cases**
+
+- Aggregation of sales by outlet size and type
+- Calculation of percentage contribution using subqueries
+- Sorting and filtering based on KPI thresholds
+
+
+**## Future Improvements**
+
+- Include time-series trend analysis if timestamp data is available
+- Add predictive modeling for demand forecasting
+- Automate data refresh and reporting
+
