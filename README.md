@@ -40,17 +40,6 @@ The Blinkit dataset was explored and analyzed using a combination of Python (Pan
 - **Top Performing Outlets** – Based on revenue.
 - **Sales by Location Type** – Urban vs Rural comparison.
 - **Product Count by Category** – SKU diversity tracking.
-
-
-##  Project Structure
-
-```plaintext
-Blinkit_Analysis/
-├── Blinkit_Analysis in python.ipynb       # Python analysis notebook
-├── blinkit_data.sql                       # SQL queries (not uploaded yet)
-├── PowerBI_Dashboard.pbix                 # Power BI dashboard (not uploaded yet)
-└── README.md                              # Project documentation
-
 **
 ##  Power BI Dashboard Highlights**
 
@@ -79,4 +68,17 @@ Blinkit_Analysis/
 - Include time-series trend analysis if timestamp data is available
 - Add predictive modeling for demand forecasting
 - Automate data refresh and reporting
+
+##  Project Structure
+
+```plaintext
+Blinkit_Analysis/
+├── Blinkit_Analysis in python.ipynb       # Python analysis notebook
+├── blinkit_data.sql                       # SQL queries (not uploaded yet)
+├── PowerBI_Dashboard.pbix                 # Power BI dashboard (not uploaded yet)
+└── README.md                              # Project documentation
+
+
+
+
 
