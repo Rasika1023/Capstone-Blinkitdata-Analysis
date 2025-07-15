@@ -40,8 +40,8 @@ The Blinkit dataset was explored and analyzed using a combination of Python (Pan
 - **Top Performing Outlets** – Based on revenue.
 - **Sales by Location Type** – Urban vs Rural comparison.
 - **Product Count by Category** – SKU diversity tracking.
-**
-##  Power BI Dashboard Highlights**
+
+##  Power BI Dashboard Highlights
 
 - Dynamic filters by Outlet Size, Product Type, and Region
 - KPI cards displaying total revenue and sales count
@@ -49,21 +49,21 @@ The Blinkit dataset was explored and analyzed using a combination of Python (Pan
 - Trendline analysis across time (if applicable)
 
 
-**##  Insights Gained**
+##  Insights Gained
 
 - Certain outlet sizes contribute significantly more to total sales.
 - There is a skew in selling price vs MRP in specific categories.
 - Product types and location types have a direct influence on performance.
 
-**
-##  SQL Use Cases**
+
+##  SQL Use Cases
 
 - Aggregation of sales by outlet size and type
 - Calculation of percentage contribution using subqueries
 - Sorting and filtering based on KPI thresholds
 
 
-**## Future Improvements**
+## Future Improvements
 
 - Include time-series trend analysis if timestamp data is available
 - Add predictive modeling for demand forecasting
